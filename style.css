@@ -1,0 +1,19 @@
+body{
+    padding: 80px;
+    font-family: system-ui;
+    text-align: center;
+    background-color: blanchedalmond;
+    margin-bottom: 50px;
+    color:black;
+}
+
+table td{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    font-size: 70px;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
